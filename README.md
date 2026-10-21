@@ -2,7 +2,7 @@
 
 Projeto de ciência de dados feito por mim para prever quais clientes de uma telecom vão cancelar e calcular quanto dinheiro a empresa pode economizar com isso.
 
-![Economia por corte de probabilidade](images/economia_por_corte.png)
+![Economia por corte de probabilidade](Images/economia_por_corte.png)
 
 ## O problema
 
@@ -26,18 +26,18 @@ Quando um cliente cancela, a empresa perde dinheiro. Mas tentar reter todos os c
 
 ## O que descobri
 
-![Análise exploratória](images/eda.png)
+![Análise exploratória](Images/eda.png)
 
 - Contrato **mensal**: cerca de 42% cancelam. Contrato de **2 anos**: cerca de 3%.
 - Internet por **fibra óptica**: cerca de 42% cancelam. DSL: cerca de 19%.
 - A maioria dos cancelamentos acontece nos **primeiros meses** do cliente.
 - Quem cancelou pagava mais por mês.
 
-![Motivos de cancelamento](images/motivos_cancelamento.png)
+![Motivos de cancelamento](Images/motivos_cancelamento.png)
 
 - Entre os 10 principais motivos, **atendimento ruim** e **ofertas de concorrentes** aparecem bem acima de preço.
 
-![Variáveis mais importantes](images/importancia.png)
+![Variáveis mais importantes](Images/importancia.png)
 
 ## Resultado em dinheiro
 
